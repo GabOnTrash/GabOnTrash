@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning c++.
 - 📫 How to reach me: GabOnTrash on instagram.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: I don't know.
+- ⚡ Fun fact: Have a lot to learn about git, github, and build methods.
