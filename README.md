@@ -2,5 +2,4 @@
 - 👀 I’m interested in low level programming and games!
 - 🌱 I’m currently learning c++.
 - 📫 How to reach me: GabOnTrash on instagram.
-- 😄 Pronouns: he/him.
 - ⚡ Fun fact: Have a lot to learn about git, github, and build methods.
