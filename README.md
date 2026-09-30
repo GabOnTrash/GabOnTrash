@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabOnTrash
 - 👀 I’m interested in low level programming and games!
-- 🌱 I’m currently learning c++.
+- 🌱 I’m currently learning C++ and Rust.
 - 📫 How to reach me: _gabrielearmenise on instagram.
 - ⚡ Fun fact: Have a lot to learn about git, github, and build methods.
